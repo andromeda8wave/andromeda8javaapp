@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "name": "Revenues",
+      "type": "Income",
+      "subArticles": []
+    },
+    {
+      "name": "Business expenses",
+      "type": "Expense",
+      "subArticles": []
+    },
+    {
+      "name": "Food",
+      "type": "Expense",
+      "subArticles": ["Meals", "Snacks", "Restaurants"]
+    }
+  ],
+  "wallets": [
+    {
+      "name": "Credit cards",
+      "initialBalance": 37767.05
+    },
+    {
+      "name": "Cash",
+      "initialBalance": 85062.68
+    }
+  ],
+  "transactions": [
+  ]
+}
